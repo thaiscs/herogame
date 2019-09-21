@@ -7,9 +7,8 @@ const hero = {name: '',
 
 
 function rest(checkHealth) {
-    Object.keys(data).forEach(item => {
-        console.log(item);
-      });
+    let resting = {health: 2}
+    checkHealth.health = Object.assign(resting, hero)
         
     }
 
