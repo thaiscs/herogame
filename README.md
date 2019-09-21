@@ -1,5 +1,3 @@
-# herogame
-
 REFLECTIONS ON MY RESULTS
 
 - Game Logic Functions: that`s where I got stuck. I was really passionate about learning how to implement the logic into coding, so I spent at least 4 hours trying different approaches, such as:
